@@ -1,6 +1,7 @@
 # CleanCode
-<클린 코드>를 스터디하며, 공부한 내용을 정리한 것입니다.
----
+
+### <클린 코드>를 스터디하며, 공부한 내용을 정리한 것입니다.
+
 
 1. [깨끗한 코드](https://github.com/HJC96/CleanCode/blob/main/%EB%82%B4%EC%9A%A9/1.%20%EA%B9%A8%EB%81%97%ED%95%9C%20%EC%BD%94%EB%93%9C.md)
 2. [의미있는 이름](https://github.com/HJC96/CleanCode/blob/main/%EB%82%B4%EC%9A%A9/2.%20%EC%9D%98%EB%AF%B8%EC%9E%88%EB%8A%94%20%EC%9D%B4%EB%A6%84.md)
