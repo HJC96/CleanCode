@@ -1,7 +1,12 @@
 # CleanCode
+<img width="330" alt="image" src="https://github.com/HJC96/CleanCode/assets/87226129/5576e58d-0a3a-4d69-b40e-e73d2e56eae4">
 
-### <클린 코드>를 스터디하며, 공부한 내용을 정리한 것입니다.
+## 스터디 목적
+더 나은 코드를 작성하는 개발자가 되고자, "클린코드" 스터디를 진행하였습니다. 
 
+하기 항목들은 공부한 내용을 정리한 것입니다.
+
+---
 
 1. [깨끗한 코드](https://github.com/HJC96/CleanCode/blob/main/%EB%82%B4%EC%9A%A9/1.%20%EA%B9%A8%EB%81%97%ED%95%9C%20%EC%BD%94%EB%93%9C.md)
 2. [의미있는 이름](https://github.com/HJC96/CleanCode/blob/main/%EB%82%B4%EC%9A%A9/2.%20%EC%9D%98%EB%AF%B8%EC%9E%88%EB%8A%94%20%EC%9D%B4%EB%A6%84.md)
